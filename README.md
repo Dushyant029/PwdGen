@@ -1,6 +1,6 @@
 # PwdGen
 
-This is a simple responsive WebApp which produces random passwords.
+This is a simple responsive WebApp which produces random passwords.   
 
 ## Preview: https://dushyant029.github.io/PwdGen/
 
